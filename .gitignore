@@ -2,6 +2,8 @@
 #   ENVIRONMENT SETTINGS
 # ------------------------
 .env
+.docker-local/
+.local-deploy/
 
 # ------------------------
 #       PRODUCTION
